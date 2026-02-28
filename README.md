@@ -1,30 +1,17 @@
 <div align="center">
-
-```
-██████╗ ██╗ ██████╗
-██╔══██╗██║██╔═══██╗
-██████╔╝██║██║   ██║
-██╔══██╗██║██║   ██║
-██║  ██║██║╚██████╔╝
-╚═╝  ╚═╝╚═╝ ╚═════╝
-```
+  
+![readmebox](https://github.com/porn-codex/Java79/assets/106463487/c7327c43-75d7-4e9b-b818-b96648559d97)
+  
+> 🇬🇷 *«Είμαι μια κατσαρίδα — όσο δύσκολα και περίπλοκα κι αν γίνουν,*
+> *ακόμα κι αν κανείς δε με συμπαθεί ή πρέπει να ζω με τον πιο θλιβερό τρόπο,*
+> *εγώ θα συνεχίσω να ζω.»*
 
 ### Rio Putra Pratama
-**`Full-Stack Developer · Indonesia`**
+**`Software Developer · Earth`**
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654b381c520b534886904524?variant=dark)](https://roadmap.sh/befriend?u=654b381c520b534886904524)
 
 </div>
-
----
-
-```yaml
-name     : Rio Putra Pratama
-location : Indonesia 🇮🇩
-focus    : Web Development
-stack    : JavaScript · PHP · CSS · HTML · TypeScript · Blade
-learning : [ always ]
-```
 
 ---
 

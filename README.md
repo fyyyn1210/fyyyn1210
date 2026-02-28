@@ -6,7 +6,6 @@
 > *ακόμα κι αν κανείς δε με συμπαθεί ή πρέπει να ζω με τον πιο θλιβερό τρόπο,*
 > *εγώ θα συνεχίσω να ζω.»*
 
-### Rio Putra Pratama
 **`Software Developer · Earth`**
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654b381c520b534886904524?variant=dark)](https://roadmap.sh/befriend?u=654b381c520b534886904524)
